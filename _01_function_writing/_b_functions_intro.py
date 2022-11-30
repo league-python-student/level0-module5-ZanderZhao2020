@@ -13,6 +13,25 @@ import unittest
 #  checks the function returns 100. Since a multiply function isn't defined,
 #  you have to define one with the correct input variable(s) and return
 #  statement. Create your functions below and not inside the test class.
+def multiply(a, b):
+    return a * b
+def str_cat(var1, var2 ,var3):
+    return f"{var1} {var2} {var3}"
+def greater_than(a, b):
+    return b > a
+def get_random_number(low, high):
+    return random.randint(1, 100)
+def is_vegetable(word="not vegetable"):
+    return word == "celery"
+def make_appointment(preferred_time_of_day="morning"):
+    if preferred_time_of_day == "morning":
+        return "8 am"
+    elif preferred_time_of_day == "afternoon":
+        return "1 pm"
+    elif preferred_time_of_day == "evening":
+        return "5 pm"
+    elif preferred_time_of_day == "graveyard":
+        return "error"
 
 
 # ======================= DO NOT EDIT THE CODE BELOW =========================

@@ -21,6 +21,7 @@ if __name__ == '__main__':
     #         “small”            =  60
     #         “medium”           =  120
     #         “large”            =  250
+
     #   10) Make two new functions that draw different shaped roofs
     #      (JUST the roof part): draw_pointy_roof, draw_flat_roof
     #   11) By calling the correct "roof" function, make large houses have
