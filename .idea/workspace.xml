@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42dd4962-414e-4040-a75b-f2e99795c852" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_01_function_writing/_b_functions_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_b_functions_intro.py" afterDir="false" />
+    <list default="true" id="42dd4962-414e-4040-a75b-f2e99795c852" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_function_writing/_c_obedient_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_c_obedient_turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_function_writing/_d_happy_pet.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_d_happy_pet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_01_function_writing/_e_houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_e_houses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,15 +26,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/zander/Documents/GitHub/level0-module5-ZanderZhao2020",
-    "settings.editor.selected.configurable": "vcs.Git"
-  }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in _b_functions_intro.py">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python._e_houses">
     <configuration name="_a_functions_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module5-ZanderZhao2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,7 +53,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for _b_functions_intro.FunctionTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="_c_obedient_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module5-ZanderZhao2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,9 +62,52 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;_b_functions_intro.FunctionTests&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_c_obedient_turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_d_happy_pet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module5-ZanderZhao2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_d_happy_pet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_e_houses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module5-ZanderZhao2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_e_houses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in _b_functions_intro.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -84,8 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in _b_functions_intro.py" />
-        <item itemvalue="Python tests.Python tests for _b_functions_intro.FunctionTests" />
+        <item itemvalue="Python._e_houses" />
+        <item itemvalue="Python._d_happy_pet" />
+        <item itemvalue="Python._c_obedient_turtle" />
+        <item itemvalue="Python._c_obedient_turtle" />
         <item itemvalue="Python._a_functions_demo" />
       </list>
     </recent_temporary>
@@ -111,5 +155,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
