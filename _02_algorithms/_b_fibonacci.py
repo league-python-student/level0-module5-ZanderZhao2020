@@ -12,10 +12,20 @@ if __name__ == '__main__':
     #  The following steps give you some guidelines for one of them.
     #  1. Declare and initialize three int variables: number1, number2,
     #     and sum.
+    num1 = 0
+    num2 = 1
+    sum = 0
     #  2. Initialize number1 and number2 to the first two numbers of the
     #     fibonacci sequence (0 and 1) and print both numbers.
+    print(num1)
+    print(num2)
     #  3. Use a for loop that calculates the sum of the two numbers and
     #     prints it. The for loop should repeat 10 times.
+    for c in range(10):
+        sum = num1 + num2
+        print(sum)
+        num1 = num2
+        num2 = sum
     #  4. Now try to figure out how to change the variables before the for
     #     loop repeats so the sequence of numbers is correct.
     pass

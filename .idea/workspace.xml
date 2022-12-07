@@ -3,12 +3,42 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="42dd4962-414e-4040-a75b-f2e99795c852" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/level0-module5-ZanderZhao2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/level0-module5-ZanderZhao2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_function_writing/_c_obedient_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_c_obedient_turtle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_function_writing/_d_happy_pet.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_d_happy_pet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_function_writing/_e_houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_function_writing/_e_houses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_algorithms/_a_prime_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_algorithms/_a_prime_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_algorithms/_b_fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_algorithms/_b_fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_algorithms/_c_goofy_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_algorithms/_c_goofy_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_nested_loops/amazing_rings/amazing_rings.pyde" beforeDir="false" afterPath="$PROJECT_DIR$/_03_nested_loops/amazing_rings/amazing_rings.pyde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_nested_loops/for_loop_gauntlet/for_loop_gauntlet.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_nested_loops/for_loop_gauntlet/for_loop_gauntlet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,17 +52,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IFKMq600n83Oi9jJirJaN4iVjF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python._e_houses">
-    <configuration name="_a_functions_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.for_loop_gauntlet">
+    <configuration name="_a_prime_or_not" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module5-ZanderZhao2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_a_functions_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_algorithms/_a_prime_or_not.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,36 +88,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_c_obedient_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_b_fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module5-ZanderZhao2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_c_obedient_turtle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_algorithms/_b_fibonacci.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_d_happy_pet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_c_goofy_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module5-ZanderZhao2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_d_happy_pet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_algorithms/_c_goofy_names.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -93,15 +134,33 @@
       <module name="level0-module5-ZanderZhao2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_function_writing/_e_houses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for_loop_gauntlet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module5-ZanderZhao2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_nested_loops/for_loop_gauntlet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_nested_loops/for_loop_gauntlet/for_loop_gauntlet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,27 +169,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in _b_functions_intro.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="level0-module5-ZanderZhao2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_function_writing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/_01_function_writing/_b_functions_intro.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for_loop_gauntlet" />
+        <item itemvalue="Python._c_goofy_names" />
+        <item itemvalue="Python._b_fibonacci" />
+        <item itemvalue="Python._a_prime_or_not" />
         <item itemvalue="Python._e_houses" />
-        <item itemvalue="Python._d_happy_pet" />
-        <item itemvalue="Python._c_obedient_turtle" />
-        <item itemvalue="Python._c_obedient_turtle" />
-        <item itemvalue="Python._a_functions_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -156,5 +201,30 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="260" key="GridCell.Tab.0.bottom" timestamp="1670378852303">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1670378852303" />
+    <state width="1259" height="260" key="GridCell.Tab.0.center" timestamp="1670378852302">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1670378852302" />
+    <state width="1259" height="260" key="GridCell.Tab.0.left" timestamp="1670378852302">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1670378852302" />
+    <state width="1259" height="260" key="GridCell.Tab.0.right" timestamp="1670378852303">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1670378852303" />
+    <state x="129" y="164" width="1022" height="732" key="SettingsEditor" timestamp="1670377121739">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state x="129" y="164" width="1022" height="732" key="SettingsEditor/0.31.1280.993@0.31.1280.993" timestamp="1670377121739" />
   </component>
 </project>

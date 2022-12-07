@@ -1,31 +1,31 @@
-"""
-Go to the recipe to run the demonstration before starting this program
-"""
-
+r = 0.1;
+plus = False
+minus = False
 def setup():
-    # Set the size of your sketch to be a rectangle like in the recipe demonstration
-    
-    # Call the noFill() command so all the ellipses will be transparent
-
+    size(800,500)
+    smooth(8)
 def draw():
-    # Use a for loop to make the first set of rings that will start in the left half
-    # of the window.
-
-    # Make this set of rings move across the sketch to the right 
-    # Hint: Make two variables, one for x and another for the speed. 
-    #       Then increase x by the amount in speed.
-        
-    # When the rings reach the right side of the sketch, reverse the direction so
-    # they move.
-    # Hint: speed = -speed */
-
-         
-    # When the rings reach the left side of the sketch, reverse the direction again
-        
-    # CHALLENGE - to finish the Amazing Rings
-     
-    # Add another for loop to draw the second set of rings that will start in the
-    # right half of the window
-        
-    # Make this set of rings move in the opposite direction to the other rings
-    # These rings must also "bounce" off the sides of the window.
+    background(200)
+    for i in range(300, 0, -10):
+        pushMatrix();
+        translate(width/4,height/4)
+        noFill()
+        strokeWeight(2)
+        ellipse(r,100,i,i)
+        popMatrix();
+    for j in range(300, 0, -10):
+        pushMatrix()
+        translate(width/4,height / 4)
+        noFill()
+        ellipse(350 - r, 100, j, j)
+        popMatrix()
+    if r < 5:
+        plus = True
+        minus = False
+    if r > 450:
+        plus = False
+        minus = True
+    if plus:
+        r = r + 0.2
+    if minus:
+        r = r - 0.1
