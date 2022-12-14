@@ -5,6 +5,9 @@ def setup():
     size(800,500)
     smooth(8)
 def draw():
+    global r
+    global plus
+    global minus
     background(200)
     for i in range(300, 0, -10):
         pushMatrix();
